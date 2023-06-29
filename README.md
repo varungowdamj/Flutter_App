@@ -1,1 +1,2 @@
 # Flutter_App
+Application is a real-time messaging platform that allows users to create and join chat rooms with multiple participants. This application is designed to provide a seamless chat experience to users across different platforms like Android ,iOS and Web Page. The application is built using Flutter, which is an open-source framework for building cross-platform applications. Flutter allows developers to build high-performance, responsive, and beautiful mobile applications with a single codebase.
